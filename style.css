@@ -1,0 +1,37 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1;
+}
+
+header {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgb(200, 10, 233) 35%, rgb(225, 29, 232) 100%);
+}
+
+#search-title {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#submit-btn {
+    background-color: rgb(246, 87, 233) ;
+}
+
+li {
+    list-style: none;
+}
+
+h2,
+h3,
+h4 {
+    font-weight: bold;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+footer{
+    text-align: center;
+}
